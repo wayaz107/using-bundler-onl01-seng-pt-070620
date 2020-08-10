@@ -4,4 +4,3 @@ gem "sinatra"
 
 
 gem "pry", :group => "development"
-
